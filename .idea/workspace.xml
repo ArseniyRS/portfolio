@@ -6,36 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Arseniy_CV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/ashar_main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/ashar_mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_create.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_tables.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/tg_admin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/tg_bot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/portfolio_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/resume_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.eeae249cd6c05ecac58938a0a19166b6.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.d64471e2.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/2.d64471e2.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.8d62a0c2.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.8d62a0c2.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.c49e9caf.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.c49e9caf.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.41386cbe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.41386cbe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/portfolio_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/portfolio_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626951790413</updated>
       <workItem from="1626951794192" duration="10592000" />
-      <workItem from="1626971553992" duration="3515000" />
+      <workItem from="1626971553992" duration="4125000" />
     </task>
     <task id="LOCAL-00001" summary="first ver for portfolio">
       <created>1626970234370</created>
@@ -115,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626970234370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ver 0.1 of portfolio">
+      <created>1626975151392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626975151392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first ver for portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="first ver for portfolio" />
+    <MESSAGE value="ver 0.1 of portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.1 of portfolio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="463" key="#Notifications" timestamp="1626970419157">
@@ -178,10 +162,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="461" y="245" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1626956213335" />
-    <state x="552" y="320" key="Vcs.Push.Dialog.v2" timestamp="1626970235802">
+    <state x="552" y="320" key="Vcs.Push.Dialog.v2" timestamp="1626975153015">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="552" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1626970235802" />
+    <state x="552" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1626975153015" />
     <state x="769" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626970506147">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>

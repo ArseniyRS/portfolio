@@ -233,11 +233,6 @@ class App extends Component {
                       "level": "85"
                   },
                   {
-                      "name": "C#",
-                      "class": "devicon-csharp-plain",
-                      "level": "65"
-                  },
-                  {
                       "name": "Postgresql",
                       "class": "devicon-postgresql-plain",
                       "level": "60"
