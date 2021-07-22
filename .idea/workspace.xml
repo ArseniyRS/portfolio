@@ -5,7 +5,38 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="" />
+    <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Arseniy_CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/ashar_main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/ashar_mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_create.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_tables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/tg_admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/portfolio/tg_bot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/portfolio_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/resume_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.eeae249cd6c05ecac58938a0a19166b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.d64471e2.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/2.d64471e2.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8d62a0c2.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.8d62a0c2.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.782b92dd.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c49e9caf.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c49e9caf.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.41386cbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.41386cbe.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +67,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../map-trade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\portfolio\src\assets" />
+      <recent name="C:\Users\Admin\Desktop\portfolio\public\images\portfolio" />
+      <recent name="C:\Users\Admin\Desktop\portfolio\src\data" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -68,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626951790413</updated>
       <workItem from="1626951794192" duration="10592000" />
+      <workItem from="1626971553992" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="first ver for portfolio">
       <created>1626970234370</created>
@@ -92,6 +131,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first ver for portfolio" />
@@ -114,22 +154,22 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="740" y="355" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1626966261288" />
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1626969820241">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom" timestamp="1626975041612">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1626969820241" />
-    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1626969820241">
+    <state width="1877" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1626975041612" />
+    <state width="1877" height="334" key="GridCell.Tab.0.center" timestamp="1626975041611">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1626969820241" />
-    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1626969820241">
+    <state width="1877" height="334" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1626975041611" />
+    <state width="1877" height="334" key="GridCell.Tab.0.left" timestamp="1626975041611">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1626969820241" />
-    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1626969820241">
+    <state width="1877" height="334" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1626975041611" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right" timestamp="1626975041611">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1626969820241" />
+    <state width="1877" height="334" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1626975041611" />
     <state x="848" y="468" key="MultipleFileMergeDialog" timestamp="1626970526412">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
@@ -146,9 +186,9 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="769" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1200@0.0.1920.1200" timestamp="1626970506147" />
-    <state x="667" y="309" width="585" height="582" key="find.popup" timestamp="1626969574252">
+    <state x="667" y="309" width="585" height="582" key="find.popup" timestamp="1626974169537">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="667" y="309" width="585" height="582" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1626969574252" />
+    <state x="667" y="309" width="585" height="582" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1626974169537" />
   </component>
 </project>

@@ -1,0 +1,140 @@
+
+{
+    "basic_info": {
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Сrowdfunding web-app Ashar",
+        "startDate": "2021",
+        "description": "",
+        "images": [
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://ashar.club",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          }
+        ]
+      },
+      {
+        "title": "Support backend and frontend of a telegram bot",
+        "startDate": "2021",
+        "description": "Dyikan Dos is a personal online assistant for a farmer. The bot is sending messages with all sorts of information.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://t.me/strong_village_bot",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "Organic in KG",
+        "startDate": "2020",
+        "description": "Development of commercial mobile online store for the sale of organic products",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Agrosmart",
+        "title": "Information place for student, university and employers",
+        "years": "06.2021",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "Redux + Redux saga",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Agrosmart",
+        "title": "Support backend and frontend of a telegram bot\n",
+        "years": "05.2021",
+        "mainTech": [
+          "Angular",
+          "PostgreSQL",
+          "Express js"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "TypeScript",
+          "Bootstrap",
+          "Node.js (Express js)",
+          "Postgresql",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Agrosmart",
+        "title": "Сrowdfunding app Ashar",
+        "years": "02.2021 - 04.2021",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "Redux + Redux thunk",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Neobis",
+        "title": "Social project for the sale of eco products",
+        "years": "09.2020 - 12.2020",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "Redux + Redux thunk",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
