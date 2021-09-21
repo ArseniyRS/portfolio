@@ -7,11 +7,16 @@
   <component name="ChangeListManager">
     <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/portfolio_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/portfolio_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/portfolio/ashar_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/portfolio/ashar_mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/portfolio/organic_create.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_create.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/portfolio/organic_tables.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/portfolio/organic_tables.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectDetailsModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectDetailsModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/dark-slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/dark-slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/light-slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/light-slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/themes/theme-dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/themes/theme-dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/themes/theme-light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/themes/theme-light.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,9 +175,9 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="769" y="514" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1200@0.0.1920.1200" timestamp="1626970506147" />
-    <state x="667" y="309" width="585" height="582" key="find.popup" timestamp="1626974169537">
+    <state x="667" y="309" width="585" height="582" key="find.popup" timestamp="1632254039134">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="667" y="309" width="585" height="582" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1626974169537" />
+    <state x="667" y="309" width="585" height="582" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1632254039134" />
   </component>
 </project>

@@ -27,19 +27,16 @@ class Projects extends Component {
           >
             <span className="portfolio-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
-                <div>
-                  <img
-                    src={projects.images[0]}
-                    alt="projectImages"
-                    height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
-                  />
+
+                  <div style={
+                    {background: `url(${projects.images[0]}) no-repeat center center`,
+                    backgroundSize: 'cover', width: '100%', height: '250px'}}/>
+
                   <span className="project-date">{projects.startDate}</span>
                   <br />
                   <p className="project-title-settings mt-3">
                     {projects.title}
                   </p>
-                </div>
               </div>
             </span>
           </div>
