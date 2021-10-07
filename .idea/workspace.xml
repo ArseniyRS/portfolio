@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="" />
+    <list default="true" id="c3994888-e744-42f1-8c67-ed62108893ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +79,7 @@
       <updated>1626951790413</updated>
       <workItem from="1626951794192" duration="10592000" />
       <workItem from="1626971553992" duration="4125000" />
+      <workItem from="1633594755495" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="first ver for portfolio">
       <created>1626970234370</created>

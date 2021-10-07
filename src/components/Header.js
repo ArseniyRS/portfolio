@@ -91,7 +91,7 @@ class Header extends Component {
               />
               <br/>
               <div className={'header_button'}>
-                <Button href={"https://drive.google.com/file/d/1IYWHqhjynL9mMfeVBSyto7W4gsaMw66o/view?usp=sharing"} target={"_blank"} size="lg" variant="success">Download CV</Button>
+                <Button href={"https://drive.google.com/file/d/1vTO9_9iBD_MDBzPtD0r0nXk9nwdpdZqX/view?usp=sharing"} target={"_blank"} size="lg" variant="success">Download CV</Button>
               </div>
             </div>
           </div>
